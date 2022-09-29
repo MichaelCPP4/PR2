@@ -16,6 +16,7 @@ namespace Lib_1
         /// <returns></returns>
         public static int Sum(int[] mas)
         {
+            int aboba = 54;
             int sum = 0;
             for (int i = 0; i < mas.Length; i++)
             {
